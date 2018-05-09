@@ -1,11 +1,9 @@
 package com.intech.controllers;
 
 import com.intech.api.TeamDto;
-import com.intech.converters.TeamConverter;
 import com.intech.services.TeamService;
 import io.swagger.annotations.ApiOperation;
 import lombok.extern.java.Log;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;

@@ -4,7 +4,6 @@ import com.intech.api.FightResponse;
 import com.intech.services.FightService;
 import io.swagger.annotations.ApiOperation;
 import lombok.extern.java.Log;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 @Log
